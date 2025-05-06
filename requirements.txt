@@ -1,0 +1,8 @@
+flask
+easyocr
+fuzzywuzzy
+torch
+torchvision
+Pillow
+werkzeug
+python-Levenshtein
